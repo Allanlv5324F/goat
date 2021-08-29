@@ -1,0 +1,58 @@
+body{
+    font-weight: bold;
+    color: white;
+    background-color: lightslategray;
+    text-align: center;
+}
+
+.header
+{
+    width: 100%;
+    line-height: 3;
+    font-family: cursive;
+    font-size: 25px;
+    border-radius: 15px;
+    top:0;
+    margin:0;
+    position: sticky;
+    text-align: center;
+}
+
+.line{
+    height: 6px;
+    background-color: darkgreen;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#button{
+    background-color:darkolivegreen;
+    border: solid black 5px;
+    border-radius: 20px;
+    color: white;
+    width: 30%;
+    font-weight: bold;
+    width: 30%;
+}
+
+img{
+    width: 500px;
+    height: 350px;
+    border-radius:50px;
+}
+
+canvas{
+    border: 5px solid white;
+    box-shadow: 5px;
+    border-radius: 20px;
+}
+
+#topic2{
+    font-size: 25px;
+    font-family:cursive;
+}
+
+label{
+      font-weight: bold;
+      font-size: 18px;
+}
